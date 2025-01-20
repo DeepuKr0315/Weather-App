@@ -2,6 +2,8 @@
 🌦️ **Weather App**: A simple app fetching real-time weather data using the OpenWeatherMap API. 🌍✨ Search any city to see its **temperature 🌡️**, **humidity 💧**, **wind speed 💨**, and conditions with dynamic icons. **Supports search via 🔍 button or pressing Enter! 🚀**
 A sleek and simple weather app that provides real-time weather updates for any city! 🌍 Built using **HTML**, **CSS**, and **JavaScript**, this app fetches weather data from the OpenWeatherMap API. 🛠️
 
+### **Demo** ==> [Click here](https://deepukr0315.github.io/Weather-App/)
+
 ## 🚀 Features
 1. 🌡️ **Current Temperature**: Displays the temperature in Celsius.
 2. 🌆 **City Name**: Shows the name of the searched city.
